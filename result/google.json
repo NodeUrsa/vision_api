@@ -1,0 +1,22 @@
+[
+ "/home/dev/workspace/vision/images/1.jpg",
+ {
+  "responses": [
+   {
+    "labelAnnotations": [
+     {
+      "mid": "/m/01l0mw",
+      "description": "home",
+      "score": 0.93346041
+     }
+    ],
+    "safeSearchAnnotation": {
+     "adult": "VERY_UNLIKELY",
+     "spoof": "VERY_UNLIKELY",
+     "medical": "VERY_UNLIKELY",
+     "violence": "VERY_UNLIKELY"
+    }
+   }
+  ]
+ }
+]

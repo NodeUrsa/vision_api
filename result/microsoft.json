@@ -1,0 +1,48 @@
+[
+ "/home/dev/workspace/vision/images/1.jpg",
+ {
+  "description": {
+   "tags": [
+    "building",
+    "grass",
+    "house",
+    "outdoor",
+    "residential",
+    "front",
+    "home",
+    "small",
+    "white",
+    "green",
+    "field",
+    "church",
+    "window",
+    "red",
+    "yard",
+    "large",
+    "old",
+    "brick",
+    "clock",
+    "grazing",
+    "parked",
+    "tower",
+    "street",
+    "fire",
+    "sign",
+    "horse",
+    "tall"
+   ],
+   "captions": [
+    {
+     "text": "a large white house",
+     "confidence": 0.8662335073481084
+    }
+   ]
+  },
+  "requestId": "bca4c912-4de9-4741-a298-6d87b3df6a64",
+  "metadata": {
+   "width": 243,
+   "height": 208,
+   "format": "Jpeg"
+  }
+ }
+]

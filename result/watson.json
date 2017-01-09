@@ -1,0 +1,28 @@
+[
+ "/home/dev/workspace/vision/images/1.jpg",
+ {
+  "custom_classes": 0,
+  "images": [
+   {
+    "classifiers": [
+     {
+      "classes": [
+       {
+        "class": "house",
+        "score": 0.9995
+       },
+       {
+        "class": "building",
+        "score": 0.996982
+       }
+      ],
+      "classifier_id": "default",
+      "name": "default"
+     }
+    ],
+    "image": "1.jpg"
+   }
+  ],
+  "images_processed": 1
+ }
+]

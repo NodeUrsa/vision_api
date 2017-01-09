@@ -1,0 +1,31 @@
+{
+  "name": "CognitiveAnalysis",
+  "version": "1.0.0",
+  "description": "Cognitive",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "babel": {
+    "presets": [
+      "es2015",
+      "stage-0"
+    ]
+  },
+  "author": "Andrey Petrov",
+  "license": "ISC",
+  "devDependencies": {
+    "glob-fs": "^0.1.6",
+    "imgur-node-api": "^0.1.0"
+  },
+  "dependencies": {
+    "babel": "^6.5.2",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-stage-0": "^6.16.0",
+    "babel-register": "^6.18.0",
+    "nodemon": "^1.11.0",
+    "request": "^2.79.0",
+    "watson-developer-cloud": "^2.9.1"
+  }
+}
